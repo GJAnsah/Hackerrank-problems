@@ -1,5 +1,5 @@
 '''
-HACKERRANK CHALLENGE:https://www.hackerrank.com/challenges/30-arrays/problem?h_r=email&unlock_token=4ed89be48f0e732068fc31bce053fe7810d7aab4&utm_campaign=30_days_of_code_continuous&utm_medium=email&utm_source=daily_reminder
+HACKERRANK CHALLENGE:https://goo.gl/zwk3Yj
 '''
 
 #!/bin/python3
