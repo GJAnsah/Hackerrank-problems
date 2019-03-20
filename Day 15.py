@@ -3,8 +3,10 @@
 https://goo.gl/vzhYfy
 https://goo.gl/cNkTYu
 https://goo.gl/1419Tu
+https://goo.gl/wjEkFm
 '''
 
+#----------------------------------------------------------------------------------------------------------------------------------------
 from sys import stdin
 
 def query(dict,key):
@@ -49,3 +51,9 @@ def factorial(n):
     
 n = int(input())
 print(factorial(n))
+
+#---------------------------------------------------------------------------------------------------------------------------------
+n = str(bin(int(input())))
+n=n.strip("0b")
+n=n.split("0")
+print(len(max(n)))
