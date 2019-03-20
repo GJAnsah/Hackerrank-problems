@@ -2,6 +2,7 @@
 '''
 https://goo.gl/vzhYfy
 https://goo.gl/cNkTYu
+https://goo.gl/1419Tu
 '''
 
 from sys import stdin
@@ -36,3 +37,15 @@ def staircase(n):
 if __name__ == '__main__':
     n = int(input())
     staircase(n)
+    
+#--------------------------------------------------------------------------------------------------------------------
+def factorial(n):
+    if n==0:
+        return 1
+    elif n==1:
+        return 1
+    else:
+        return (n*factorial(n-1))
+    
+n = int(input())
+print(factorial(n))
