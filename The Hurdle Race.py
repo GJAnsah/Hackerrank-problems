@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/the-hurdle-race/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=30-day-campaign&isFullScreen=true
+website: https://bit.ly/34ZyUyr
 #!/bin/python3
 
 import math
