@@ -1,3 +1,3 @@
-# 100daysOfCode
-I code consistently in the next 100 days
+# 100daysOfCode #Hackerrank Problems
+I tried to code consistently for 100 days. 
 
