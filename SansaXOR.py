@@ -15,7 +15,7 @@ import sys
 def sansaXor(arr,n):
     x=0
     if n%2==0:
-        return 0
+        return x
     else:
         for i in range(n):
             if i%2==0:
